@@ -160,7 +160,6 @@
      height: 100%;
      width: 0%;
      background-color: #464646;
-
  }
 
 
@@ -953,7 +952,7 @@
      height: 5vh;
      padding: 2vw;
      color: #b4b4b4;
-     /* overflow: hidden; */
+     overflow: hidden;
      border-radius: 50px;
      margin-top: 20px;
  }
